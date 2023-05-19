@@ -32,6 +32,13 @@
       "version": "0.1.9",
       "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddanglers-0.1.9.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-05-19",
+      "sha512sum": "D2DFC21527C3CA39F7D2B7F3988FDB7ED3D004FB7BEA36EA64019E619D3286FC2155CC59C17A8C5D111F80C91B5854859D46E76C100CE1B29799EC5B1107925B",
+      "version": "0.2.0",
+      "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddanglers-0.2.0.jar",
+      "requires": "^1.0.0"
     }
   ]
 },

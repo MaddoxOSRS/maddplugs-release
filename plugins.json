@@ -4,24 +4,27 @@
   "name": "MaddAnglers",
   "description": "Fishes anglerfish",
   "id": "maddanglers-plugin",
-  "releases": [{
-    "date": "2023-05-18",
-    "sha512sum": "DD37F80E1755BCFE5EEC1595AE8DCB4788B5B39B4A4842CE08D9CB1D68CF0BB1830555C044E44777B9A3F85F1431C317863D4BF32376132DCF513852044D44ED",
-    "version": "0.1.5",
-    "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddanglers-0.1.5.jar",
-    "requires": "^1.0.0"
+  "releases": [
+    {
+      "date": "2023-05-19",
+      "sha512sum": "5799087AA9375D36727F583BBC6DD60189ED3F347CFC8D98193341D8C9D7DB93DC90C38C7E9EAD394E2A74199827609592DA9E4002566EDD730BBDE8EB4E6D48",
+      "version": "0.1.6",
+      "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddanglers-0.1.6.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+},
+  {
+    "projectUrl": "https://discord.gg",
+    "provider": "MaddPlugs",
+    "name": "MaddKraken",
+    "description": "Kills and loots Kraken boss",
+    "id": "maddkraken-plugin",
+    "releases": [{
+      "date": "2023-05-18",
+      "sha512sum": "1864E16FD81A7482653128B34F1B4C6BE895024ADD95A867EF05CB79DE9BA987A404557A146BF7E20A4550521584AEA38729998DC779A3D53025D6D287133E8F",
+      "version": "0.1.5",
+      "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddkraken-0.1.5.jar",
+      "requires": "^1.0.0"
+    }]
   }]
-}, {
-  "projectUrl": "https://discord.gg",
-  "provider": "MaddPlugs",
-  "name": "MaddKraken",
-  "description": "Kills and loots Kraken boss",
-  "id": "maddkraken-plugin",
-  "releases": [{
-    "date": "2023-05-18",
-    "sha512sum": "1864E16FD81A7482653128B34F1B4C6BE895024ADD95A867EF05CB79DE9BA987A404557A146BF7E20A4550521584AEA38729998DC779A3D53025D6D287133E8F",
-    "version": "0.1.5",
-    "url": "https://raw.githubusercontent.com/MaddoxOSRS/maddplugs-release/main/maddkraken-0.1.5.jar",
-    "requires": "^1.0.0"
-  }]
-}]
